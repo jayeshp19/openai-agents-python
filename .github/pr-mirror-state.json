@@ -1,5 +1,5 @@
 {
-  "last_run": "2025-08-28T22:40:48.567Z",
+  "last_run": "2025-08-28T23:19:48.896Z",
   "mirrored": {
     "1537": {
       "head_sha": "3c99948d85df1d02b7df2a3bbdafc71df5618108",
@@ -32,22 +32,22 @@
       "upstream_author": "seratch"
     },
     "1601": {
-      "head_sha": "9e802c0df0c65ec9a03f4ccefa61ebee61f7b04d",
+      "head_sha": "692ba9b3d23e408bf36f260fcb0a8740a59d5ec9",
       "branch": "upstream-pr-1601",
       "base": "main",
       "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/3",
       "fork_pr_number": 3,
-      "last_updated": "2025-08-28T11:07:14.089Z",
+      "last_updated": "2025-08-28T23:19:48.896Z",
       "upstream_title": "Fix #1592 Web search tool updates",
       "upstream_author": "seratch"
     },
     "1602": {
-      "head_sha": "d28527ca163ab222d7876b81c57bb9c750f6b22b",
+      "head_sha": "96e9bf0f118171a68edbf929552be5da288e813e",
       "branch": "upstream-pr-1602",
       "base": "main",
       "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/2",
       "fork_pr_number": 2,
-      "last_updated": "2025-08-28T11:07:14.089Z",
+      "last_updated": "2025-08-28T23:19:48.896Z",
       "upstream_title": "Handle LiteLLM's json_tool_call addition for structured outputs",
       "upstream_author": "seratch"
     },
