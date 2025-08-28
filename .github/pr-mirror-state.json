@@ -1,0 +1,55 @@
+{
+  "last_run": "2025-08-28T11:07:14.089Z",
+  "mirrored": {
+    "1537": {
+      "head_sha": "3c99948d85df1d02b7df2a3bbdafc71df5618108",
+      "branch": "upstream-pr-1537",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/5",
+      "fork_pr_number": 5,
+      "last_updated": "2025-08-28T11:07:14.089Z",
+      "upstream_title": "fix(voice/stt): accept conversation.item.input_audio_transcription.completed (keep legacy alias)",
+      "upstream_author": "dudududukim"
+    },
+    "1587": {
+      "head_sha": "1bce3f44cb8bf5ed42d08f59c538b20e2fc9025f",
+      "branch": "upstream-pr-1587",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/1",
+      "fork_pr_number": 1,
+      "last_updated": "2025-08-28T11:07:14.089Z",
+      "upstream_title": "Fix #1564 Add conversations API support",
+      "upstream_author": "seratch"
+    },
+    "1600": {
+      "head_sha": "e4b41d906455903de3e4ada673792150873621af",
+      "branch": "upstream-pr-1600",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/4",
+      "fork_pr_number": 4,
+      "last_updated": "2025-08-28T11:07:14.089Z",
+      "upstream_title": "Fix #1585 supporting connectors",
+      "upstream_author": "seratch"
+    },
+    "1601": {
+      "head_sha": "9e802c0df0c65ec9a03f4ccefa61ebee61f7b04d",
+      "branch": "upstream-pr-1601",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/3",
+      "fork_pr_number": 3,
+      "last_updated": "2025-08-28T11:07:14.089Z",
+      "upstream_title": "Fix #1592 Web search tool updates",
+      "upstream_author": "seratch"
+    },
+    "1602": {
+      "head_sha": "d28527ca163ab222d7876b81c57bb9c750f6b22b",
+      "branch": "upstream-pr-1602",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/2",
+      "fork_pr_number": 2,
+      "last_updated": "2025-08-28T11:07:14.089Z",
+      "upstream_title": "Handle LiteLLM's json_tool_call addition for structured outputs",
+      "upstream_author": "seratch"
+    }
+  }
+}
