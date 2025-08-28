@@ -1,5 +1,5 @@
 {
-  "last_run": "2025-08-28T19:38:43.953Z",
+  "last_run": "2025-08-28T20:24:00.363Z",
   "mirrored": {
     "1537": {
       "head_sha": "3c99948d85df1d02b7df2a3bbdafc71df5618108",
@@ -50,6 +50,26 @@
       "last_updated": "2025-08-28T11:07:14.089Z",
       "upstream_title": "Handle LiteLLM's json_tool_call addition for structured outputs",
       "upstream_author": "seratch"
+    },
+    "1604": {
+      "head_sha": "de8bd9646a1f13856f53253e7e1462d2c410d049",
+      "branch": "upstream-pr-1604",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/7",
+      "fork_pr_number": 7,
+      "last_updated": "2025-08-28T20:24:00.363Z",
+      "upstream_title": "PO Assistant: streaming tests, trace logger, and build hygiene",
+      "upstream_author": "radwagusa"
+    },
+    "1606": {
+      "head_sha": "1c9c101c6d4ab736d949bff96b9f23a0dcf0dcbe",
+      "branch": "upstream-pr-1606",
+      "base": "main",
+      "fork_pr_url": "https://github.com/jayeshp19/openai-agents-python/pull/6",
+      "fork_pr_number": 6,
+      "last_updated": "2025-08-28T20:24:00.363Z",
+      "upstream_title": "[WIP] Tool guardrails",
+      "upstream_author": "rm-openai"
     }
   }
 }
